@@ -28,7 +28,7 @@ I'm passionate about blockchain, Web3, and building modern web applications.
 ## 📫 Let's Connect
 
 - Telegram: [@Szooot](https://t.me/Szooot)
-- LinkedIn: [linkedin.com/in/michał-szot-470123264]
+- LinkedIn: [Michał Szot](www.linkedin.com/in/michał-szot-470123264)
 
 ---
 
