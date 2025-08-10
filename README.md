@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Szooot
 
-I'm passionate about blockchain, Web3, and building modern decentralized applications with Next.js.
+I'm passionate about blockchain, Web3, and building modern decentralized applications with Next.js and Nest.js.
 
 ---
 
